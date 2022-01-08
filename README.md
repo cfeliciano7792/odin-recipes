@@ -8,13 +8,11 @@ Using the correct tags
     <em>italic
 
 Succesfully adding links and images
-    <a> and <a href="">
-    <img> and <img src>
-    <img src="" alt="">
+   
 
 Including comments in my code
 
 Using the proper tags to make lists
-    <ol> ordered list
-    <ul> unordered list
-    <li> listed item
+    ordered list
+    unordered list
+    listed item
