@@ -1,3 +1,4 @@
+https://cfeliciano7792.github.io/odin-recipes/
 # odin-recipes
 In this project I will use HTML to build a basic recipe website. The website will consist of a main index page which will have links to a few recipes. I plan to revisit this website once I have learned more CSS in order to make the website look nicer.
 
