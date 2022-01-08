@@ -13,6 +13,6 @@ Succesfully adding links and images
 Including comments in my code
 
 Using the proper tags to make lists
-    ordered list
-    unordered list
-    listed item
+        <ol>ordered list</ol>
+        <ul>unordered list</ul>
+        <li>listed item<li>
